@@ -1,0 +1,306 @@
+2019-11-25 14:00:35,516 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-11-25 14:00:35,516 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-11-25 14:00:35,516 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-11-25 14:00:35,516 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-11-25 14:00:35,517 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-11-25 14:00:35,518 - smartAlarmLogs - WARNING - System log is empty
+2019-11-25 14:00:42,887 - smartAlarmLogs - DEBUG - ROOT
+2019-11-25 14:00:42,901 - smartAlarmLogs - DEBUG - HOME
+2019-11-25 14:00:42,902 - smartAlarmLogs - DEBUG - WEATHER API
+2019-11-25 14:00:42,902 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-11-25 14:00:42,902 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-11-25 14:00:43,293 - smartAlarmLogs - DEBUG - NEWS API
+2019-11-25 14:00:43,293 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-11-25 14:00:43,293 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-11-25 14:00:43,749 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-11-25 14:00:43,749 - smartAlarmLogs - DEBUG - []
+2019-11-25 14:00:43,749 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-11-28 20:23:41,418 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-11-28 20:23:41,418 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-11-28 20:23:41,419 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-11-28 20:23:41,419 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-11-28 20:23:41,420 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-11-28 20:23:41,420 - smartAlarmLogs - WARNING - System log is empty
+2019-11-28 20:23:50,285 - smartAlarmLogs - DEBUG - ROOT
+2019-11-28 20:23:50,291 - smartAlarmLogs - DEBUG - HOME
+2019-11-28 20:23:50,291 - smartAlarmLogs - DEBUG - WEATHER API
+2019-11-28 20:23:50,291 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-11-28 20:23:50,291 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-11-28 20:23:50,414 - smartAlarmLogs - DEBUG - NEWS API
+2019-11-28 20:23:50,414 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-11-28 20:23:50,414 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-11-28 20:23:50,864 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-11-28 20:23:50,864 - smartAlarmLogs - DEBUG - []
+2019-11-28 20:23:50,864 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-11-28 20:24:01,770 - smartAlarmLogs - DEBUG - ADDING ALARM
+2019-11-28 20:24:01,774 - smartAlarmLogs - DEBUG - ADDING ALARM: date_time: 2019-11-28 20:24:00, event_name: football, event_period: Once
+2019-11-28 20:24:01,775 - smartAlarmLogs - WARNING - Alarm of Event football at 28/11/2019 20:24 is in past.
+2019-11-28 20:24:01,779 - smartAlarmLogs - DEBUG - HOME
+2019-11-28 20:24:01,780 - smartAlarmLogs - DEBUG - WEATHER API
+2019-11-28 20:24:01,780 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-11-28 20:24:01,780 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-11-28 20:24:01,882 - smartAlarmLogs - DEBUG - NEWS API
+2019-11-28 20:24:01,883 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-11-28 20:24:01,883 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-11-28 20:24:02,258 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-11-28 20:24:02,258 - smartAlarmLogs - DEBUG - []
+2019-11-28 20:24:02,258 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-11-28 20:24:12,670 - smartAlarmLogs - DEBUG - ADDING ALARM
+2019-11-28 20:24:12,670 - smartAlarmLogs - DEBUG - ADDING ALARM: date_time: 2019-11-28 20:25:00, event_name: football, event_period: Once
+2019-11-28 20:24:12,670 - smartAlarmLogs - DEBUG - GET EVENT: football
+2019-11-28 20:24:12,670 - smartAlarmLogs - INFO - Create Schedule for an event football
+2019-11-28 20:24:12,671 - smartAlarmLogs - DEBUG - TIME DIFFERENT: 2019-11-28 20:25:00
+2019-11-28 20:24:12,671 - smartAlarmLogs - DEBUG - Remaining Time from NOW: 47
+2019-11-28 20:24:12,671 - smartAlarmLogs - INFO - Event change has been captured and recorded into system log for CREATE action.
+2019-11-28 20:24:12,672 - smartAlarmLogs - INFO - Alarm of Event football has been Created successfully.
+2019-11-28 20:24:12,677 - smartAlarmLogs - DEBUG - HOME
+2019-11-28 20:24:12,677 - smartAlarmLogs - DEBUG - WEATHER API
+2019-11-28 20:24:12,677 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-11-28 20:24:12,677 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-11-28 20:24:12,773 - smartAlarmLogs - DEBUG - NEWS API
+2019-11-28 20:24:12,773 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-11-28 20:24:12,773 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-11-28 20:24:13,168 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-11-28 20:24:13,168 - smartAlarmLogs - DEBUG - [['28/11/2019 20:25', 'football', 'Once', Event(time=1574972699.671638, priority=1, action=<function set_notification at 0x10715c4c0>, argument=('28/11/2019 20:25', 'football', 'Once'), kwargs={})]]
+2019-11-28 20:24:13,168 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-11-28 20:24:59,727 - smartAlarmLogs - DEBUG - SET NOTIFICATION: 28/11/2019 20:25, football, Once
+2019-11-28 20:24:59,728 - smartAlarmLogs - INFO - Alarm! Alarm! Alarm!
+2019-11-28 20:25:00,967 - smartAlarmLogs - ERROR - pyttsx3 only supports Windows environment
+2019-11-28 20:25:00,967 - smartAlarmLogs - DEBUG - RESCHEDULE: 28/11/2019 20:25, football, Once
+2019-11-28 20:25:00,967 - smartAlarmLogs - DEBUG - GET EVENT: football
+2019-11-28 20:25:04,019 - smartAlarmLogs - DEBUG - HOME
+2019-11-28 20:25:04,019 - smartAlarmLogs - DEBUG - WEATHER API
+2019-11-28 20:25:04,019 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-11-28 20:25:04,020 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-11-28 20:25:04,111 - smartAlarmLogs - DEBUG - NEWS API
+2019-11-28 20:25:04,111 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-11-28 20:25:04,111 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-11-28 20:25:04,519 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-11-28 20:25:04,519 - smartAlarmLogs - DEBUG - []
+2019-11-28 20:25:04,519 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-02 12:42:34,499 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-02 12:42:34,499 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-02 12:42:34,499 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-02 12:42:34,499 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-02 12:42:34,500 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-02 12:42:34,503 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-02 12:42:39,763 - smartAlarmLogs - DEBUG - ROOT
+2019-12-02 12:42:39,768 - smartAlarmLogs - DEBUG - HOME
+2019-12-02 12:42:39,768 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-02 12:42:39,768 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-02 12:42:39,768 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-02 12:42:39,878 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-02 12:42:39,878 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-02 12:42:39,878 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-02 12:42:40,341 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-02 12:42:40,341 - smartAlarmLogs - DEBUG - []
+2019-12-02 12:42:40,341 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 12:49:48,626 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-10 12:49:48,626 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-10 12:49:48,627 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-10 12:49:48,627 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-10 12:49:48,627 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-10 12:49:48,631 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-10 12:49:54,688 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 12:49:54,694 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 12:49:54,695 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 12:49:54,695 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 12:49:54,695 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 12:49:54,791 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 12:49:54,791 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 12:49:54,791 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 12:49:55,372 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 12:49:55,372 - smartAlarmLogs - DEBUG - []
+2019-12-10 12:49:55,373 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 12:50:12,590 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-10 12:50:12,591 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-10 12:50:12,591 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-10 12:50:12,591 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-10 12:50:12,591 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-10 12:50:12,594 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-10 12:50:15,885 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 12:50:15,889 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 12:50:15,889 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 12:50:15,890 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 12:50:15,890 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 12:50:15,982 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 12:50:15,982 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 12:50:15,982 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 12:50:16,362 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 12:50:16,362 - smartAlarmLogs - DEBUG - []
+2019-12-10 12:50:16,362 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 12:51:35,937 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-10 12:51:35,937 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-10 12:51:35,937 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-10 12:51:35,937 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-10 12:51:35,938 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-10 12:51:35,941 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-10 12:51:38,857 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 12:51:38,863 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 12:51:38,863 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 12:51:38,863 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 12:51:38,863 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 12:51:38,908 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 12:51:38,908 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 12:51:38,908 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 12:51:39,422 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 12:51:39,422 - smartAlarmLogs - DEBUG - []
+2019-12-10 12:51:39,422 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 12:52:34,446 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-10 12:52:34,446 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-10 12:52:34,446 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-10 12:52:34,446 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-10 12:52:34,446 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-10 12:52:34,448 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-10 12:52:38,620 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 12:52:38,625 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 12:52:38,625 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 12:52:38,625 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 12:52:38,625 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 12:52:38,670 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 12:52:38,670 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 12:52:38,670 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 12:52:39,061 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 12:52:39,061 - smartAlarmLogs - DEBUG - []
+2019-12-10 12:52:39,061 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 12:53:35,770 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-10 12:53:35,770 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-10 12:53:35,770 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-10 12:53:35,770 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-10 12:53:35,771 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-10 12:53:35,774 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-10 12:53:37,929 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 12:53:37,933 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 12:53:37,933 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 12:53:37,933 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 12:53:37,933 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 12:53:37,987 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 12:53:37,987 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 12:53:37,988 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 12:53:38,379 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 12:53:38,379 - smartAlarmLogs - DEBUG - []
+2019-12-10 12:53:38,379 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 13:00:14,896 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-10 13:00:14,896 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-10 13:00:14,896 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-10 13:00:14,897 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-10 13:00:14,897 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-10 13:00:14,900 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-10 13:00:18,396 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 13:00:18,403 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 13:00:18,403 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 13:00:18,403 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 13:00:18,403 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 13:00:18,471 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 13:00:18,471 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 13:00:18,472 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 13:00:18,899 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 13:00:18,900 - smartAlarmLogs - DEBUG - []
+2019-12-10 13:00:18,900 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 13:02:29,521 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-10 13:02:29,521 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-10 13:02:29,522 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-10 13:02:29,522 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-10 13:02:29,522 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-10 13:02:29,523 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-10 13:02:32,155 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 13:02:32,159 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 13:02:32,159 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 13:02:32,160 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 13:02:32,160 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 13:02:32,203 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 13:02:32,203 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 13:02:32,203 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 13:02:32,591 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 13:02:32,591 - smartAlarmLogs - DEBUG - []
+2019-12-10 13:02:32,591 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 13:03:16,924 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-10 13:03:16,924 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-10 13:03:16,924 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-10 13:03:16,924 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-10 13:03:16,925 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-10 13:03:16,926 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-10 13:03:19,656 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 13:03:19,659 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 13:03:19,659 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 13:03:19,659 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 13:03:19,659 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 13:03:19,709 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 13:03:19,709 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 13:03:19,709 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 13:03:20,077 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 13:03:20,077 - smartAlarmLogs - DEBUG - []
+2019-12-10 13:03:20,077 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 13:04:06,016 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-10 13:04:06,017 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-10 13:04:06,017 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-10 13:04:06,017 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-10 13:04:06,017 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-10 13:04:06,018 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-10 13:04:08,944 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 13:04:08,948 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 13:04:08,948 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 13:04:08,948 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 13:04:08,948 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 13:04:08,998 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 13:04:08,999 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 13:04:09,000 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 13:04:09,379 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 13:04:09,379 - smartAlarmLogs - DEBUG - []
+2019-12-10 13:04:09,379 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 13:04:36,096 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-10 13:04:36,096 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-10 13:04:36,097 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-10 13:04:36,097 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-10 13:04:36,097 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-10 13:04:36,101 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-10 13:04:39,496 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 13:04:39,502 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 13:04:39,502 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 13:04:39,502 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 13:04:39,502 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 13:04:39,547 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 13:04:39,548 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 13:04:39,548 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 13:04:39,931 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 13:04:39,932 - smartAlarmLogs - DEBUG - []
+2019-12-10 13:04:39,932 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 13:04:57,206 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 13:04:57,209 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 13:04:57,209 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 13:04:57,209 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 13:04:57,209 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 13:04:57,249 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 13:04:57,249 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 13:04:57,249 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 13:04:57,623 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 13:04:57,623 - smartAlarmLogs - DEBUG - []
+2019-12-10 13:04:57,623 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 13:05:01,861 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 13:05:01,999 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 13:05:01,999 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 13:05:01,999 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 13:05:01,999 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 13:05:02,042 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 13:05:02,043 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 13:05:02,043 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 13:05:03,040 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 13:05:03,040 - smartAlarmLogs - DEBUG - []
+2019-12-10 13:05:03,040 - smartAlarmLogs - DEBUG - GET CONFIG: home_page
+2019-12-10 13:05:09,227 - smartAlarmLogs - DEBUG - SCHEDULER EVENT
+2019-12-10 13:05:09,228 - smartAlarmLogs - INFO - Start alarm scheduler events
+2019-12-10 13:05:09,228 - smartAlarmLogs - DEBUG - RESTORE FROM LOG
+2019-12-10 13:05:09,228 - smartAlarmLogs - DEBUG - GET CONFIG: sys_log_file
+2019-12-10 13:05:09,228 - smartAlarmLogs - DEBUG - GET LAST LINE: log/system.log
+2019-12-10 13:05:09,229 - smartAlarmLogs - WARNING - Alarm of Event football has expired due to only being repeated once.
+2019-12-10 13:05:12,298 - smartAlarmLogs - DEBUG - ROOT
+2019-12-10 13:05:12,303 - smartAlarmLogs - DEBUG - HOME
+2019-12-10 13:05:12,303 - smartAlarmLogs - DEBUG - WEATHER API
+2019-12-10 13:05:12,303 - smartAlarmLogs - INFO - Getting Weather Data by URL
+2019-12-10 13:05:12,303 - smartAlarmLogs - DEBUG - GET CONFIG: weather
+2019-12-10 13:05:12,353 - smartAlarmLogs - DEBUG - NEWS API
+2019-12-10 13:05:12,353 - smartAlarmLogs - INFO - Getting News Data by URL
+2019-12-10 13:05:12,354 - smartAlarmLogs - DEBUG - GET CONFIG: news
+2019-12-10 13:05:12,730 - smartAlarmLogs - INFO - Alarms list has been sorted by date time
+2019-12-10 13:05:12,730 - smartAlarmLogs - DEBUG - []
+2019-12-10 13:05:12,730 - smartAlarmLogs - DEBUG - GET CONFIG: home_page

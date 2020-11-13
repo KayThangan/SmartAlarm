@@ -1,0 +1,49 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<div class="alarmDiv">
+    <form action = "/updateAlarm/{{event_name}}" method = "POST">
+        <table>
+            <thead>
+                <th>Alarm</th>
+                <th>Event Name</th>
+                <th>Event Period</th>
+            </thead>
+            <tr>
+                <td>
+                    <input type="datetime-local" name="date" value={{alarm}} placeholder="Enter dd/mm/yyyy HH:MM" required>
+                </td>
+                <td>
+                    <input type="text" name="event_name" value={{event_name}} placeholder="Enter Event Name" required>
+                </td>
+                <td>
+                    <select name="event_period">
+                        <option value="Once" selected>Once</option>
+                        <option value="Everyday">Everyday</option>
+                        <option value="Every Week">Every Week</option>
+                        <option value="Every Month">Every Month</option>
+                        <option value="Every Year">Every Year</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="Update">
+                </td>
+                <td>
+                    <input type="reset" value="Reset">
+                </td>
+            </tr>
+            <tr>
+               <td> &nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+<div class="newsApiDiv">
+    {% include 'includes/weather.html' %}
+    {% include 'includes/news.html' %}
+</div>
+
+{% endblock %}

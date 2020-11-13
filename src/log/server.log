@@ -1,0 +1,8 @@
+2019-12-10 13:05:09,224 - root - INFO - STARTED LOG
+2019-12-10 13:05:09,231 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-12-10 13:05:12,300 - werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 13:05:12] "GET / HTTP/1.1" 302 -
+2019-12-10 13:05:12,311 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2019-12-10 13:05:12,351 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/weather?q=Exeter&units=metric&appid=eeb4fbcd899b60e9688cbe33632cec17 HTTP/1.1" 200 610
+2019-12-10 13:05:12,356 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): newsapi.org:443
+2019-12-10 13:05:12,725 - urllib3.connectionpool - DEBUG - https://newsapi.org:443 "GET /v2/top-headlines?sources=bbc-news&apiKey=1286490332ea472eaa9929358658e5ba HTTP/1.1" 200 7154
+2019-12-10 13:05:12,756 - werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 13:05:12] "GET /home HTTP/1.1" 200 -

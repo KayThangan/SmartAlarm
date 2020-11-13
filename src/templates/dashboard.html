@@ -1,0 +1,21 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+<div class="alarmDiv">
+    <h3 style="clear: both;"><i>Set an Alarms</i></h3>
+    {% include 'includes/addAlarm.html' %}
+
+    <h3 style="clear: both;"><i>Current Alarms</i></h3>
+    {% include 'includes/displayAlarm.html' %}
+
+    <h3 style="clear: both;"><i>Notification Alarms</i></h3>
+    {% include 'includes/notificationAlarm.html' %}
+</div>
+
+<div class="newsApiDiv">
+    {% include 'includes/weather.html' %}
+    {% include 'includes/news.html' %}
+</div>
+
+{% endblock %}

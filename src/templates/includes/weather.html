@@ -1,0 +1,16 @@
+<article class="absolute">
+    <div class="weather-image">
+        <figure class="image is-50x50">
+            <img src="http://openweathermap.org/img/w/{{ weather.icon }}.png" alt="Image">
+        </figure>
+        <div class="weather-content">
+            <div class="content">
+                <h2><span class="title">{{ weather.city }}</span></h2>
+                <h4>
+                    <span class="subtitle">{{ weather.temperature }}° C</span>
+                    <br> {{ weather.description }}
+                </h4>
+            </div>
+        </div>
+    </div>
+</article>

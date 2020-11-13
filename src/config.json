@@ -1,0 +1,7 @@
+{
+  "weather_api_key": "eeb4fbcd899b60e9688cbe33632cec17",
+  "news_api_key": "1286490332ea472eaa9929358658e5ba",
+  "home_page": "dashboard.html",
+  "edit_page": "editAlarm.html",
+  "sys_log_file": "log/system.log"
+}

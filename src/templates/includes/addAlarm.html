@@ -1,0 +1,54 @@
+<table>
+    <tr  id = "addAlarmForm" style="display:none;">
+        <form action = "/addAlarm" method = "POST">
+            <td>
+                <input type="datetime-local" name="date" placeholder="Enter dd/mm/yyyy HH:MM" required>
+            </td>
+            <td>
+                <input type="text" name="event_name" placeholder="Enter Name of Event" required>
+            </td>
+            <td>
+                <select name="event_period">
+                    <option value="Once" selected>Once</option>
+                    <option value="Everyday">Everyday</option>
+                    <option value="Every Week">Every Week</option>
+                    <option value="Every Month">Every Month</option>
+                    <option value="Every Year">Every Year</option>
+                </select>
+            </td>
+            <td>
+                <input type="submit" value="Add">
+            </td>
+            <td>
+                <input type="reset" value="Reset">
+            </td>
+            <td>
+                <button onclick="toggleAddCancelAlarm()">cancel</button>
+            </td>
+        </form>
+    </tr>
+    <tr id ="addAlarmButton" style="display:block;">
+        <td>
+            <button onclick="toggleAddAlarm()">Add Alarm</button>
+        </td>
+    </tr>
+    <tr>
+    <script type="text/javascript">
+        function toggleAddAlarm() {
+            var e = document.getElementById("addAlarmButton");
+            e.style.display = 'none';
+
+            e = document.getElementById("addAlarmForm");
+            e.style.display = 'block';
+        }
+
+        function toggleAddCancelAlarm() {
+            var e = document.getElementById("addAlarmButton");
+            e.style.display = 'block';
+
+            e = document.getElementById("addAlarmForm");
+            e.style.display = 'none';
+        }
+    </script>
+    </tr>
+</table>

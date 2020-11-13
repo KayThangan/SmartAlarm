@@ -1,0 +1,33 @@
+<table class="eventTable">
+    <thead>
+        <th>No</th>
+        <th>Alarm</th>
+        <th>Event Name</th>
+        <th>Event Period</th>
+    </thead>
+    {% for element in ALARMS %}
+    <tr>
+        <td width="5%"><input type = "text" value={{ loop.index }} size="3" readonly></td>
+        <td width="44%" >{{ element[0] }}</td>
+        <td width="30%" >{{ element[1] }}</td>
+        <td width="15%" >{{ element[2] }}</td>
+        <td width="7%">
+            <form action = "/editAlarm" method = "POST">
+                <input type="hidden" name="date" value="{{element[0]}}" >
+                <input type="hidden" name="event_name" value="{{element[1]}}">
+                <input type="hidden" name="event_period" value="{{element[2]}}">
+                <input type="submit" value="Edit">
+            </form>
+        </td>
+        <td width="7%">
+            <form action = "/deleteAlarm/{{element[1]}}" method = "POST">
+                <input type="submit" value="Delete">
+            </form>
+        </td>
+
+    </tr>
+    {% endfor %}
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+</table>

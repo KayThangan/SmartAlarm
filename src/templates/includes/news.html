@@ -1,0 +1,17 @@
+<article1 class="absolute">
+    <div class="col-md-30">
+        <div class="thumbnail">
+            <a href="{{ news.url }}" target="_blank">
+                <img src="{{ news.image }}" alt="{{ news.title }}" width="400" height="225" class="img-responsive" styles="height:30px">
+            </a>
+            <div class="caption">
+                <h4><a href="{{ news.url }}" target="_blank">{{ news.title }}</a></h4>
+                <p>{{ news.description }}</p>
+                <a href="{{ news.url }}" target="_blank"> Read More</a>
+            </div>
+            <div class="footer">
+                Published at: {{ news.date }}
+            </div>
+        </div>
+    </div>
+</article1>

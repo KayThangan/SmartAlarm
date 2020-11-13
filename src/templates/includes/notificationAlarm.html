@@ -1,0 +1,17 @@
+<table class="eventTable">
+    <thead>
+        <th>Alarm</th>
+        <th>Event Name</th>
+        <th>Event Period</th>
+    </thead>
+    {% for element in NOTIFICATIONS %}
+    <tr>
+        <td name="date">{{ element[0] }}</td>
+        <td name="name of event">{{ element[1] }}</td>
+        <td name="name of event">{{ element[2] }}</td>
+    </tr>
+    {% endfor %}
+    <tr>
+        <td>&nbsp;</td>
+    </tr>
+</table>
