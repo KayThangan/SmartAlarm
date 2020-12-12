@@ -37,7 +37,7 @@ Running the main application
 cd SmartAlarm/src/
 ```
 ```
-python app.py
+python smart_alarm.py
 ```
 
 ### And coding style tests
