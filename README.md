@@ -40,17 +40,6 @@ cd SmartAlarm/src/
 python app.py
 ```
 
-### Break down into end to end tests
-
-Running unit-testing file
-
-```
-cd SmartAlarm/src/
-```
-```
-python unit_testing.py
-```
-
 ### And coding style tests
 
 ```
